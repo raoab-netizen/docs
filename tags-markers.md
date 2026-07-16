@@ -16,4 +16,7 @@ For 2026 VANTAGE, we have moved to [AprilTags](https://april.eecs.umich.edu/medi
 |2,3|5'1"|
 |3,4|4'6"|
 |4,1|5'2"|
+|-|-|
+|1,13|3'8"|
+|1,12|2'2"|
 
