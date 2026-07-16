@@ -3,7 +3,7 @@ For 2026 VANTAGE, we have moved to [AprilTags](https://april.eecs.umich.edu/medi
 
 | Boundary Markers and Inner panel markers | Distance between markers (using iPhone) |
 | :---: | :---: |
-| ![Image 1](AT01-Two-Panels.jpg) | ![Image 2](AT01-Distance.jpg) |
+| ![2 Panels](AT01-Two-Panels.jpg) | ![Distance](AT01-Distance.jpg) |
 
 |pair|distance|||||||
 |-|-|-|-|-|-|-|-|
@@ -12,6 +12,8 @@ For 2026 VANTAGE, we have moved to [AprilTags](https://april.eecs.umich.edu/medi
 |3,4|4'6"|
 |4,1|5'2"|
 
-
+|Detecting the Tags|Clipped tag
+| :---: |:---: |
+| ![Detected](AprilTag-detection-AT01-closest-R1-L2.jpg_screenshot_16.07.2026.jpg) | ![Detected](AprilTag detection - AT01-closest-R1-L2.jpg_screenshot_16.07.2026)|
 
 
