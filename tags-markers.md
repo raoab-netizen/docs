@@ -16,4 +16,6 @@ For 2026 VANTAGE, we have moved to [AprilTags](https://april.eecs.umich.edu/medi
 | :---: |:---: |
 | ![Detected](AprilTag-detection-AT01-closest-R3-L4.jpg_screenshot_16.07.2026.png) | ![Detected](AprilTag-detection-AT01-closest-R1-L2.jpg_screenshot_16.07.2026.png)|
 
-
+|Detecting all the Tags|
+|:---: |
+| ![Detected-All](AprilTag-detection-AT01-Two-Panels.jpg_screenshot_16.07.2026.png)|
